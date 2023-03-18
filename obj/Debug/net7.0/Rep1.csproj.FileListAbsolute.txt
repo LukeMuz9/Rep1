@@ -1,0 +1,15 @@
+/Users/sowa/Documents/GitHub/Rep1/obj/Debug/net7.0/Rep1.csproj.AssemblyReference.cache
+/Users/sowa/Documents/GitHub/Rep1/obj/Debug/net7.0/Rep1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sowa/Documents/GitHub/Rep1/obj/Debug/net7.0/Rep1.AssemblyInfoInputs.cache
+/Users/sowa/Documents/GitHub/Rep1/obj/Debug/net7.0/Rep1.AssemblyInfo.cs
+/Users/sowa/Documents/GitHub/Rep1/obj/Debug/net7.0/Rep1.csproj.CoreCompileInputs.cache
+/Users/sowa/Documents/GitHub/Rep1/bin/Debug/net7.0/Rep1
+/Users/sowa/Documents/GitHub/Rep1/bin/Debug/net7.0/Rep1.deps.json
+/Users/sowa/Documents/GitHub/Rep1/bin/Debug/net7.0/Rep1.runtimeconfig.json
+/Users/sowa/Documents/GitHub/Rep1/bin/Debug/net7.0/Rep1.dll
+/Users/sowa/Documents/GitHub/Rep1/bin/Debug/net7.0/Rep1.pdb
+/Users/sowa/Documents/GitHub/Rep1/obj/Debug/net7.0/Rep1.dll
+/Users/sowa/Documents/GitHub/Rep1/obj/Debug/net7.0/refint/Rep1.dll
+/Users/sowa/Documents/GitHub/Rep1/obj/Debug/net7.0/Rep1.pdb
+/Users/sowa/Documents/GitHub/Rep1/obj/Debug/net7.0/Rep1.genruntimeconfig.cache
+/Users/sowa/Documents/GitHub/Rep1/obj/Debug/net7.0/ref/Rep1.dll
